@@ -1,0 +1,1 @@
+<?php /* Espace utilisateur connecté */ ?>

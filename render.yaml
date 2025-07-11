@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: deliver-market
+    env: php
+    plan: free
+    rootDir: public
